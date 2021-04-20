@@ -26,7 +26,7 @@ public class Main {
         OperasiBilanganAbs[] objek = {penjumlahan, pengurangan, perkalian, pembagian };
         
         OperasiBilanganAbsCetak pencetak = new OperasiBilanganAbsCetak();
-        pencetak.cetakSemua(objek, a, .5);
+        pencetak.cetakSemua(objek, a, b);
     }
     
 }
